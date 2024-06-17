@@ -7,6 +7,5 @@ function solution(array, n) {
                 count.push(array[i]);
             }
             }
-    let answer = count.length;
-    return answer;
+    return count.length;
         }
